@@ -1,3 +1,5 @@
 # Hello Git text file
 echo "Hello Git!"
 echo "Hello Git conflict!"
+echo "Hello Git conflict!"
+
